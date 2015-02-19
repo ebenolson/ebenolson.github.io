@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Eben's blog</title><link href="http://ebenolson.github.io/" rel="alternate"></link><link href="http://ebenolson.github.io/feeds/all.atom.xml" rel="self"></link><id>http://ebenolson.github.io/</id><updated>2015-02-19T00:00:00-05:00</updated><entry><title>Test</title><link href="http://ebenolson.github.io/blah.html" rel="alternate"></link><updated>2015-02-19T00:00:00-05:00</updated><author><name>Eben Olson</name></author><id>tag:ebenolson.github.io,2015-02-19:blah.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Eben's blog</title><link href="http://ebenolson.github.io/" rel="alternate"></link><link href="http://ebenolson.github.io/feeds/all.atom.xml" rel="self"></link><id>http://ebenolson.github.io/</id><updated>2015-02-19T00:00:00-05:00</updated><entry><title></title><link href="http://ebenolson.github.io/.html" rel="alternate"></link><updated>2015-02-19T00:00:00-05:00</updated><author><name>Eben Olson</name></author><id>tag:ebenolson.github.io,2015-02-19:.html</id><summary type="html">
 &lt;style type="text/css"&gt;
 
 /* General text, input and output cells */
@@ -1477,16 +1477,13 @@ span#checkpoint_status,span#autosave_status{font-size:small}
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
 &lt;div class="prompt input_prompt"&gt;
-In [5]:
+In []:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="input_area"&gt;
-&lt;div class="highlight-ipynb"&gt;&lt;pre class="ipynb"&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;json&lt;/span&gt;
+&lt;div class="highlight-ipynb"&gt;&lt;pre class="ipynb"&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="cell border-box-sizing code_cell rendered"&gt;
-
 &lt;/div&gt;</summary><category term=""></category></entry></feed>
