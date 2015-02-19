@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Eben's blog</title><link href="http://ebenolson.github.io/" rel="alternate"></link><link href="http://ebenolson.github.io/feeds/all.atom.xml" rel="self"></link><id>http://ebenolson.github.io/</id><updated>2015-02-19T00:00:00-05:00</updated><entry><title>Lasagne implementation of the adam SGD update rule</title><link href="http://ebenolson.github.io/.html" rel="alternate"></link><updated>2015-02-19T00:00:00-05:00</updated><author><name>Eben Olson</name></author><id>tag:ebenolson.github.io,2015-02-19:.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Eben's blog</title><link href="http://ebenolson.github.io/" rel="alternate"></link><link href="http://ebenolson.github.io/feeds/all.atom.xml" rel="self"></link><id>http://ebenolson.github.io/</id><updated>2015-02-19T00:00:00-05:00</updated><entry><title>Lasagne implementation of the adam SGD update rule</title><link href="http://ebenolson.github.io/adamlasagne.html" rel="alternate"></link><updated>2015-02-19T00:00:00-05:00</updated><author><name>Eben Olson</name></author><id>tag:ebenolson.github.io,2015-02-19:adamlasagne.html</id><summary type="html">
 &lt;style type="text/css"&gt;
 
 /* General text, input and output cells */
